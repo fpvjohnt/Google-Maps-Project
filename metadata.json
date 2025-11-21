@@ -1,0 +1,7 @@
+{
+  "name": "RoadCommand AI",
+  "description": "Your intelligent co-pilot for road conditions, traffic updates, and local amenities using Google Maps Grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
